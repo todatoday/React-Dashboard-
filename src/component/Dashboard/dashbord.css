@@ -1,0 +1,56 @@
+.blocs-darkshbord{
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px;
+    margin-top: -650px;
+    padding: 10px;
+    color: white;
+}
+.bloc-item{
+
+    color: white;
+    margin-left: 10px;
+   padding: 10px;
+    background-color: rgb(8, 42, 116);
+}
+.invoice-bloc{
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px;
+    
+
+}
+
+.invoice-item {
+    color: white;
+    background-color: teal;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 6px 5px 5px blanchedalmond;
+    border-radius: 4px;
+
+}
+.item1{
+    background-color: red;
+}
+.item2{
+    background-color: rgb(216, 25, 216);
+}
+.item3{
+    background-color: sienna;
+}
+.item4{
+    background-color: salmon;
+}
+
+.second-dashb{
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px;
+    
+    padding: 10px;
+    color: white;
+}
